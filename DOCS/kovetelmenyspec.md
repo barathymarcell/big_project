@@ -70,3 +70,21 @@ Az E-Learning Kezelőrendszer (LMS) kifejlesztéséhez és üzemeltetéséhez az
 - A felhasználói visszajelzéseket és panaszokat hatékonyan kell kezelni a rendszer fejlesztése érdekében.
 
 Ezen általános követelmények betartása biztosítja, hogy az E-Learning Kezelőrendszer (LMS) megbízhatóan működjön, és megfeleljen a felhasználói igényeknek és elvárásoknak.
+
+
+## Specifikus követelmények
+
+5. **Tartalomkezelés:**
+    - A rendszer támogatja a videók, PDF fájlok illetve egyéb tartalomformátumok feltöltését és megjelenítését.
+
+6. **Interaktivitás:**
+    - A diákok számára lehetőséget nyújt a tartalmak mentésére valamint offline megtekintésére.
+    - Automatikus visszajelzést ad a feladatok és kvízek során, illetve értékeléseket jelenít meg.
+
+7. **Felhasználói Élmény:**
+    - Az interfész felhasználóbarát és könnyen navigálható.
+    - Értesítéseket és naprakész információkat nyújtanak a tanároknak és diákoknak egyaránt.
+
+8. **Biztonság:**
+    - Az adatok és felhasználói információk biztonságosan vannak eltárolva.
+    - A jogosultságkezelés pontos és hatékony.
