@@ -88,3 +88,19 @@ Ezen általános követelmények betartása biztosítja, hogy az E-Learning Keze
 8. **Biztonság:**
     - Az adatok és felhasználói információk biztonságosan vannak eltárolva.
     - A jogosultságkezelés pontos és hatékony.
+
+## Teljesítményelemzés
+
+9. **Diákok Nyomonkövetése:**
+   - A rendszer lehetővé teszi a diákok teljesítményének elemzését és követését.
+   - Tanárok értékeléseket kaphatnak a diákok munkájáról.
+
+## Kiegészítő Funkciók
+
+10. **Keresés és Kategorizálás:**
+    - A rendszer lehetőséget nyújt a kurzusok és tartalmak keresésére, valamint kategorizálásra.
+
+11. **Offline Tartalom:**
+    - A diákok letölthetik és offline módban is megtekinthetik a tartalmakat.
+
+Ezen követelményspecifikáció alapján az eLearning kezelőrendszer célja egy modern és hatékony tanulási környezet kialakítása, ahol a tanárok könnyedén létrehozhatnak tartalmakat, és a diákok interaktív módon tanulhatnak. A rendszer biztonságos és felhasználóbarát élményt nyújt mindkét fél számára.
