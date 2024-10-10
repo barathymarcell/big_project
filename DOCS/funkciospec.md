@@ -87,3 +87,25 @@ A fent felsorolt felhasználói funkciók és kezelőfelületi tervezés segíte
 4. **Értékelések és Visszajelzés:** A diákok részt vehetnek a kvízekben és feladatokban, és azonnali visszajelzést kapnak a teljesítményükről. Emellett a tanárok is figyelemmel kísérhetik a diákok előrehaladását és szükség esetén visszajelzéseket adhatnak.
 
 Az eLearning kezelőrendszerünk széleskörű lehetőségeket kínál mind a tanároknak, mind a diákoknak. Az oktatók egyszerűen létrehozhatnak és testre szabhatnak kurzusokat, miközben a diákok könnyedén hozzáférhetnek a tartalmakhoz és a tanulás élményét élvezhetik. Az interaktivitás és az automatizált értékelési funkciók segítségével a tanulás hatékony és szórakoztató lesz mindkét fél számára.
+
+## Adatbázis Szerkezet
+
+Az adatbázisban számos entitást kell tárolnunk a rendszer működéséhez. Az alábbiakban felsoroljuk ezeket:
+
+1. **Felhasználók (Users):**
+   - Az összes felhasználó adatait ebben a táblában tároljuk, beleértve a felhasználónevet, jelszót, e-mail címet, regisztrációs dátumot stb.
+
+2. **Oktatók (Instructors):**
+   - Az oktatók további adatait tárolja ebben a táblában.
+
+## Miért hasznos egy E-Learning Rendszer?
+
+Az e-learning rendszernek számos előnye van, amelyeket az oktatás és képzés terén alkalmazva kiemelkedő eredményeket lehet elérni:
+
+- Rugalmasság: Az e-learning lehetővé teszi a tanulók számára, hogy saját ütemükben és az igényeiknek megfelelően tanuljanak. Nem szükséges fizikailag jelen lenni az oktatási intézményben.
+
+- Hozzáférhetőség: Az online tanulás bárhol és bármikor elvégezhető, ami különösen előnyös a távoli vagy elfoglalt tanulók számára.
+
+- Interaktivitás: Az e-learning rendszerek képesek interaktív tartalmakat biztosítani, amelyek segítik a tanulók bevonását és megértését.
+
+- Skálázhatóság: Az e-learning lehetővé teszi az oktatási anyagok könnyű és hatékony terjesztését, és széles körű diákok elérését.
