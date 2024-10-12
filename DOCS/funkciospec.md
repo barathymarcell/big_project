@@ -149,3 +149,43 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
 
 A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
+
+## Tartalomkezelés
+
+A rendszer tartalomkezelésének számos fontos aspektusa van:
+
+- **Tartalomfeltöltés**: Az oktatóknak és tartalomkészítőknek könnyen kell tudniuk feltölteni és frissíteni a kurzusokhoz tartozó tartalmakat. A rendszernek támogatnia kell a különböző médiafájlok, például képek, videók és dokumentumok feltöltését. Emellett a tartalomfeltöltési folyamatnak egyszerű és intuitívnek kell lennie.
+
+- **Tartalom szerkesztése**: A tartalom szerkesztésének lehetőségének kell lennie. Az oktatók és tartalomkészítők könnyen módosíthatják és frissíthetik a kurzusok tartalmát, például új leckék vagy modulok hozzáadásával. A szerkesztőfelületnek lehetőséget kell adnia a szövegszerkesztésre, formázásra és multimédiás elemek beillesztésére.
+
+- **Verziókezelés**: Fontos, hogy a rendszer támogassa a tartalom verziókezelését. Ez lehetővé teszi a változások visszavonását és a korábbi verziók visszaállítását, ami különösen hasznos lehet a tartalomhibák vagy változtatások utólagos kezelésekor.
+
+- **Jogosultságok és hozzáférési ellenőrzés**: A tartalomhozzáférés jogosultságait és engedélyeit kell beállítani. Az oktatók és tartalomkészítőknek csak az általuk létrehozott tartalmakhoz kell hozzáférést kapniuk, míg a diákok csak azokhoz, amelyeket regisztráltak.
+- **Kategóriák és címkék**: A tartalmak kategorizálása és címkézése segíthet a felhasználóknak a könnyű navigációban és a tartalom gyors megtalálásában. A rendszernek lehetőséget kell adnia a tartalmak csoportosítására kategóriák és címkék segítségével.
+
+- **Tartalom publikálása és archiválása**: A rendszernek lehetőséget kell biztosítania a tartalom publikálására és archiválására. Így az oktatók időzített publikálással tervezhetik a kurzusokat, és az inaktív tartalmakat elzárhatják az archívumban.
+
+- **Keresési funkció**: A felhasználók könnyen kereshetik a rendszer tartalmainak között, beleértve a kurzusokat, leckéket vagy dokumentumokat. A keresésnek hatékony és gyors eredményeket kell szolgáltatnia.
+
+A tartalomkezelés rendszernek minden aspektusa segíti a tartalom hatékony kezelését, frissítését és könnyű elérését, ami fontos eleme az elearning rendszer sikerének.
+
+## Felhasználói Jogosultságok
+
+A rendszerben különböző felhasználói típusoknak különböző jogosultságokat kell biztosítani a következőképpen:
+
+- **Adminisztrátorok**: Az adminisztrátoroknak teljes hozzáférési jogosultságuk kell lennie a rendszerhez. Képesek lesznek a felhasználói fiókok kezelésére, új kurzusok létrehozására és a rendszer konfigurációjának módosítására.
+
+- **Oktatók és Tartalomkészítők**: Az oktatóknak és tartalomkészítőknek a tartalomkezelésre korlátozott hozzáférést kell biztosítaniuk. Képesek lesznek kurzusok létrehozására, tartalom feltöltésére és szerkesztésére a saját kurzusaikhoz.
+
+- **Diákok**: A diákoknak csak a kurzusokhoz és a saját profiljukhoz kell hozzáférési jogosultságot kapniuk. Képesek lesznek a kurzusokra való regisztrációra, a kurzusok tartalmának elérésére és a saját előrehaladásuk követésére.
+
+- **Látogatók**: A látogatóknak korlátozott hozzáférési jogosultságot kell kapniuk. Lehetőséget kell biztosítani a rendszer böngészésére, de nem tudnak kurzusokhoz regisztrálni vagy tartalmakat elérni.
+
+- **Hozzáférési ellenőrzés**: A rendszernek gondoskodnia kell a hozzáférési jogosultságok pontos ellenőrzéséről. A jogosultságok beállításainak könnyen módosíthatónak kell lenniük az adminisztrátorok számára, és a felhasználók csak a saját jogosultságuknak megfelelő tartalmakat láthatják.
+
+- **Bejelentkezési jogosultságok**: A rendszernek megfelelő bejelentkezési jogosultságokat kell biztosítania. A felhasználók számára biztonságos bejelentkezési folyamatot kell garantálni, beleértve a jelszóváltoztatási lehetőséget és a kétlépcsős azonosítást.
+
+- **Adatvédelem és biztonság**: A rendszernek gondoskodnia kell az adatvédelemről és a felhasználói adatok biztonságáról. A jogosultságoknak meg kell felelniük az adatvédelmi előírásoknak és a vonatkozó törvényeknek.
+
+A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
+
