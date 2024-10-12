@@ -175,7 +175,7 @@ A rendszerben különböző felhasználói típusoknak különböző jogosultsá
 
 - **Adatvédelem és biztonság**: A rendszernek gondoskodnia kell az adatvédelemről és a felhasználói adatok biztonságáról. A jogosultságoknak meg kell felelniük az adatvédelmi előírásoknak és a vonatkozó törvényeknek.
 
-A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
+A felhasználói jogosultságok pontos bellítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
 
 ---
 
