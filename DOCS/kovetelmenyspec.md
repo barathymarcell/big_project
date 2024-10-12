@@ -156,3 +156,27 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
 
 A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
+
+## Felhasználói Jogosultságok
+
+A rendszerben különböző felhasználói típusoknak különböző jogosultságokat kell biztosítani a következőképpen:
+
+- **Adminisztrátorok**: Az adminisztrátoroknak teljes hozzáférési jogosultságuk kell lennie a rendszerhez. Képesek lesznek a felhasználói fiókok kezelésére, új kurzusok létrehozására és a rendszer konfigurációjának módosítására.
+
+- **Diákok**: A diákoknak csak a kurzusokhoz és a saját profiljukhoz kell hozzáférési jogosultságot kapniuk. Képesek lesznek a kurzusokra való regisztrációra, a kurzusok tartalmának elérésére és a saját előrehaladásuk követésére.
+
+- **Oktatók és Tartalomkészítők**: Az oktatóknak és tartalomkészítőknek a tartalomkezelésre korlátozott hozzáférést kell biztosítaniuk. Képesek lesznek kurzusok létrehozására, tartalom feltöltésére és szerkesztésére a saját kurzusaikhoz.
+
+- **Látogatók**: A látogatóknak korlátozott hozzáférési jogosultságot kell kapniuk. Lehetőséget kell biztosítani a rendszer böngészésére, de nem tudnak kurzusokhoz regisztrálni vagy tartalmakat elérni.
+
+- **Hozzáférési ellenőrzés**: A rendszernek gondoskodnia kell a hozzáférési jogosultságok pontos ellenőrzéséről. A jogosultságok beállításainak könnyen módosíthatónak kell lenniük az adminisztrátorok számára, és a felhasználók csak a saját jogosultságuknak megfelelő tartalmakat láthatják.
+
+- **Bejelentkezési jogosultságok**: A rendszernek megfelelő bejelentkezési jogosultságokat kell biztosítania. A felhasználók számára biztonságos bejelentkezési folyamatot kell garantálni, beleértve a jelszóváltoztatási lehetőséget és a kétlépcsős azonosítást.
+
+- **Adatvédelem és biztonság**: A rendszernek gondoskodnia kell az adatvédelemről és a felhasználói adatok biztonságáról. A jogosultságoknak meg kell felelniük az adatvédelmi előírásoknak és a vonatkozó törvényeknek.
+
+A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
+
+---
+
+
