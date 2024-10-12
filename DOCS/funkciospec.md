@@ -149,3 +149,23 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
 
 A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
+
+## Tartalomkezelés
+
+A rendszer tartalomkezelésének számos fontos aspektusa van:
+
+- **Tartalomfeltöltés**: Az oktatóknak és tartalomkészítőknek könnyen kell tudniuk feltölteni és frissíteni a kurzusokhoz tartozó tartalmakat. A rendszernek támogatnia kell a különböző médiafájlok, például képek, videók és dokumentumok feltöltését. Emellett a tartalomfeltöltési folyamatnak egyszerű és intuitívnek kell lennie.
+
+- **Tartalom szerkesztése**: A tartalom szerkesztésének lehetőségének kell lennie. Az oktatók és tartalomkészítők könnyen módosíthatják és frissíthetik a kurzusok tartalmát, például új leckék vagy modulok hozzáadásával. A szerkesztőfelületnek lehetőséget kell adnia a szövegszerkesztésre, formázásra és multimédiás elemek beillesztésére.
+
+- **Verziókezelés**: Fontos, hogy a rendszer támogassa a tartalom verziókezelését. Ez lehetővé teszi a változások visszavonását és a korábbi verziók visszaállítását, ami különösen hasznos lehet a tartalomhibák vagy változtatások utólagos kezelésekor.
+
+- **Jogosultságok és hozzáférési ellenőrzés**: A tartalomhozzáférés jogosultságait és engedélyeit kell beállítani. Az oktatók és tartalomkészítőknek csak az általuk létrehozott tartalmakhoz kell hozzáférést kapniuk, míg a diákok csak azokhoz, amelyeket regisztráltak.
+- **Kategóriák és címkék**: A tartalmak kategorizálása és címkézése segíthet a felhasználóknak a könnyű navigációban és a tartalom gyors megtalálásában. A rendszernek lehetőséget kell adnia a tartalmak csoportosítására kategóriák és címkék segítségével.
+
+- **Tartalom publikálása és archiválása**: A rendszernek lehetőséget kell biztosítania a tartalom publikálására és archiválására. Így az oktatók időzített publikálással tervezhetik a kurzusokat, és az inaktív tartalmakat elzárhatják az archívumban.
+
+- **Keresési funkció**: A felhasználók könnyen kereshetik a rendszer tartalmainak között, beleértve a kurzusokat, leckéket vagy dokumentumokat. A keresésnek hatékony és gyors eredményeket kell szolgáltatnia.
+
+A tartalomkezelés rendszernek minden aspektusa segíti a tartalom hatékony kezelését, frissítését és könnyű elérését, ami fontos eleme az elearning rendszer sikerének.
+
