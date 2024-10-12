@@ -175,7 +175,7 @@ A rendszerben különböző felhasználói típusoknak különböző jogosultsá
 
 - **Adminisztrátorok**: Az adminisztrátoroknak teljes hozzáférési jogosultságuk kell lennie a rendszerhez. Képesek lesznek a felhasználói fiókok kezelésére, új kurzusok létrehozására és a rendszer konfigurációjának módosítására.
 
-- **Oktatók és Tartalomkészítők**: Az oktatóknak és tartalomkészítőknek a tartalomkezelésre korlátozott hozzáférét kell biztosítaniuk. Képesek lesznek kurzusok létrehozására, tartalom feltöltésére és szerkesztésére a saját kurzusaikhoz.
+- **Oktatók és Tartalomkészítők**: Az oktatóknak és tartalomkészítőknek a tartalomkezelésre korlátozott hozzáférést kell biztosítaniuk. Képesek lesznek kurzusok létrehozására, tartalom feltöltésére és szerkesztésére a saját kurzusaikhoz.
 
 - **Diákok**: A diákoknak csak a kurzusokhoz és a saját profiljukhoz kell hozzáférési jogosultságot kapniuk. Képesek lesznek a kurzusokra való regisztrációra, a kurzusok tartalmának elérésére és a saját előrehaladásuk követésére.
 
