@@ -189,3 +189,22 @@ A rendszerben különböző felhasználói típusoknak különböző jogosultsá
 
 A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
 
+---
+
+## Kommunikáció és Üzenetküldés
+
+A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhasználók számára:
+
+- **Üzenetküldés**: A felhasználóknak lehetőséget kell adni egymásnak privát üzenetek küldésére a rendszeren belül. Ez lehetővé teszi az oktatók és diákok közötti együttműködést, valamint a kérdések és válaszok cseréjét.
+
+- **Kommentek**: A kurzusok és tartalmak alatt lehetőség kell lennie kommentek hozzáfűzésére. Ez segíti a diákokat és oktatókat a tartalmakkal kapcsolatos kérdések megvitatásában, valamint az interakcióban.
+
+- **Fórumok és közösségi terek**: A rendszernek lehetőséget kell biztosítania fórumok és közösségi terek létrehozására, ahol a felhasználók szabadon megoszthatják gondolataikat, tapasztalataikat és ötleteiket.
+
+- **Értesítések**: Az automatikus értesítések segítenek a felhasználóknak a fontos eseményekről és határidőkről való értesítésben. Ez lehetővé teszi az oktatóknak és diákoknak, hogy mindig naprakészek legyenek a kurzusaikkal kapcsolatos változásokról.
+
+- **Mobilalkalmazás integráció**: Amennyiben rendelkezésre áll, a rendszernek lehetőséget kell biztosítania a mobilalkalmazásokkal történő kommunikációra, beleértve az értesítéseket és az üzenetküldést mobil eszközökön keresztül.
+
+- **Adatvédelem és moderálás**: Fontos, hogy a kommunikáció során az adatvédelmet tiszteletben tartsuk, és lehetőséget biztosítsunk a moderálásra, hogy elkerüljük a zaklatást és a nem kívánt tartalmak megjelenését.
+
+A kommunikációs funkciók lehetővé teszik a tanulók és oktatók közötti interakciót, valamint a tartalmak megbeszélését és megértését.
