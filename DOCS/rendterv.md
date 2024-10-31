@@ -55,3 +55,14 @@ A rendszerkomponensek közötti kapcsolatok kulcsfontosságúak a rendszer műk�
 - A keresés és kategorizálás funkciók segítik a felhasználókat a kívánt tartalmak megtalálásában.
 
 ![communicate](communication.png)
+
+### Fejlesztési Ütemterv
+
+A fejlesztési ütemterv a rendszer funkcióinak és komponenseinek lépésről lépésre történő kifejlesztését és integrációját írja le részletesen. Fontos megérteni, hogy a fejlesztési ütemterv időben rugalmas lehet, és az aktuális projektkörülményekhez igazítható.
+
+#### Lépés 1: Felhasználókezelés és Bejelentkezés implementálása
+Az első lépésben a felhasználókezelést és bejelentkezés funkciókat hozzuk létre.
+
+- **Felhasználói fiókok:** Ebben a szakaszban a felhasználók regisztrációs és belépési folyamatainak megtervezése és implementáslása történik.
+
+- **Profilkezelés:** A felhasználók profiladatainak kezelését és módosítását teszi lehetővé a rendszer.
