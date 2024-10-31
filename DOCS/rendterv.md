@@ -73,3 +73,10 @@ A második lépésben a kurzuskezelés és tartalomkezelés rendszerét hozzuk l
 - **Kurzusok létrehozása:** Ebben a szakaszban lehetővé tesszük a tanároknak, hogy új kurzusokat hozzanak létre, valamint azokhoz leckéket csatoljanak és tematizálják azokat.
 
 - **Tartalomfeltöltés:** At interaktív tartalomfeltöltés és kezelés kialakítása, beleértve a videókat, egyéb dokumentumokat illetve kvízeket.
+
+#### Lépés 3: Keresés és Kategorizálás Funkciók Hozzáadása
+Harmadik lépésben a rendszer keresési és kategorizálási funkcióit hozzuk létre.
+
+- **Keresési funkció:** Az egyszerű és hatékony keresőrendszer implementálása a kurzusok valamint egyéb tartalmak megtalálásához.
+
+- **Kategorizálás és Tematizálás:** A kurzusok tematikus csoportosításának és kategorizálásának lehetővé tétele.
