@@ -87,3 +87,10 @@ A negyedik lépésben a rendszerbiztonságot és a jogosultságkezelést helyezz
 - **Adatvédelem és Biztonság:** Az adatok biztonságos tárolásának és védelmének biztosítása, beleértve a felhasználói adatokat.
 
 - **Jogosultságkezelés:** A rendszer biztosítja, hogy minden felhasználó csak a megfelelő hozzáférésekkel rendelkező tartalmakhoz férjen hozzá.
+
+#### Lépés 5: Tesztelés és Hibajavítás
+Az ötödik lépésben a rendszer teljes körű tesztelésen megy keresztül, és a felmerülő hibákat javítjuk.
+
+- **Tesztelés:** Funkcionális és felhasználói tesztek végrehajtása a rendszer működésének ellenőrzésére.
+
+- **Hibajavítás:** A tesztek során felfedezett hibák és hiányosságok kijavítása.
