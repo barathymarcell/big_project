@@ -156,3 +156,103 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
 
 A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
+
+## Felhasználói Jogosultságok
+
+A rendszerben különböző felhasználói típusoknak különböző jogosultságokat kell biztosítani a következőképpen:
+
+- **Adminisztrátorok**: Az adminisztrátoroknak teljes hozzáférési jogosultságuk kell lennie a rendszerhez. Képesek lesznek a felhasználói fiókok kezelésére, új kurzusok létrehozására és a rendszer konfigurációjának módosítására.
+
+- **Diákok**: A diákoknak csak a kurzusokhoz és a saját profiljukhoz kell hozzáférési jogosultságot kapniuk. Képesek lesznek a kurzusokra való regisztrációra, a kurzusok tartalmának elérésére és a saját előrehaladásuk követésére.
+
+- **Oktatók és Tartalomkészítők**: Az oktatóknak és tartalomkészítőknek a tartalomkezelésre korlátozott hozzáférést kell biztosítaniuk. Képesek lesznek kurzusok létrehozására, tartalom feltöltésére és szerkesztésére a saját kurzusaikhoz.
+
+- **Látogatók**: A látogatóknak korlátozott hozzáférési jogosultságot kell kapniuk. Lehetőséget kell biztosítani a rendszer böngészésére, de nem tudnak kurzusokhoz regisztrálni vagy tartalmakat elérni.
+
+- **Hozzáférési ellenőrzés**: A rendszernek gondoskodnia kell a hozzáférési jogosultságok pontos ellenőrzéséről. A jogosultságok beállításainak könnyen módosíthatónak kell lenniük az adminisztrátorok számára, és a felhasználók csak a saját jogosultságuknak megfelelő tartalmakat láthatják.
+
+- **Bejelentkezési jogosultságok**: A rendszernek megfelelő bejelentkezési jogosultságokat kell biztosítania. A felhasználók számára biztonságos bejelentkezési folyamatot kell garantálni, beleértve a jelszóváltoztatási lehetőséget és a kétlépcsős azonosítást.
+
+- **Adatvédelem és biztonság**: A rendszernek gondoskodnia kell az adatvédelemről és a felhasználói adatok biztonságáról. A jogosultságoknak meg kell felelniük az adatvédelmi előírásoknak és a vonatkozó törvényeknek.
+
+A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
+
+---
+
+## Kommunikáció és Üzenetküldés
+
+A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhasználók számára:
+
+- **Üzenetküldés**: A felhasználóknak lehetőséget kell adni egymásnak privát üzenetek küldésére a rendszeren belül. Ez lehetővé teszi az oktatók és diákok közötti együttműködést, valamint a kérdések és válaszok cseréjét.
+
+- **Kommentek**: A kurzusok és tartalmak alatt lehetőség kell lennie kommentek hozzáfűzésére. Ez segíti a diákokat és oktatókat a tartalmakkal kapcsolatos kérdések megvitatásában, valamint az interakcióban.
+
+- **Fórumok és közösségi terek**: A rendszernek lehetőséget kell biztosítania fórumok és közösségi terek létrehozására, ahol a felhasználók szabadon megoszthatják gondolataikat, tapasztalataikat és ötleteiket.
+
+- **Értesítések**: Az automatikus értesítések segítenek a felhasználóknak a fontos eseményekről és határidőkről való értesítésben. Ez lehetővé teszi az oktatóknak és diákoknak, hogy mindig naprakészek legyenek a kurzusaikkal kapcsolatos változásokról.
+
+- **Mobilalkalmazás integráció**: Amennyiben rendelkezésre áll, a rendszernek lehetőséget kell biztosítania a mobilalkalmazásokkal történő kommunikációra, beleértve az értesítéseket és az üzenetküldést mobil eszközökön keresztül.
+
+- **Adatvédelem és moderálás**: Fontos, hogy a kommunikáció során az adatvédelmet tiszteletben tartsuk, és lehetőséget biztosítsunk a moderálásra, hogy elkerüljük a zaklatást és a nem kívánt tartalmak megjelenését.
+
+A kommunikációs funkciók lehetővé teszik a tanulók és oktatók közötti interakciót, valamint a tartalmak megbeszélését és megértését.
+
+---
+
+## Teljesítménymérés és Elemzés
+
+A rendszerben teljesítménymérés és elemzés funkciókra van szükség a következő okokból:
+
+- **Felhasználói előrehaladás nyomon követése**: A rendszernek lehetőséget kell adnia az oktatóknak a diákok előrehaladásának nyomon követésére. Ez magában foglalja a kurzusokon elért eredmények és teljesítmények elemzését.
+
+- **Kurzusok hatékonyságának értékelése**: Az oktatóknak és adminisztrátoroknak lehetőséget kell biztosítani a kurzusok hatékonyságának értékelésére. Ez segítheti a kurzusok továbbfejlesztését és a tanítási módszerek optimalizálását.
+
+- **Jelentések és statisztikák**: A rendszernek automatikus jelentések és statisztikák generálására is képesnek kell lennie. Ezek az információk segítenek az oktatóknak és adminisztrátoroknak a rendszer teljesítményének és a diákok fejlődésének megértésében.
+
+- **Felhasználói visszajelzések elemzése**: A rendszernek lehetőséget kell adnia a felhasználói visszajelzések gyűjtésére és elemzésére. Ezek a visszajelzések segíthetik a rendszer fejlesztését és a felhasználói élmény javítását.
+
+- **Kurzusok teljesítése és tanúsítványok**: A rendszernek lehetőséget kell biztosítania a diákoknak a kurzusok befejezésének és a tanúsítványok megszerzésének nyomon követésére.
+
+- **Adatbiztonság és adatvédelem**: A teljesítménymérés során az adatbiztonságra és az adatvédelemre is különös figyelmet kell fordítani, hogy a felhasználók személyes adatai biztonságban legyenek.
+
+A teljesítménymérés és elemzés funkciók segítenek az oktatóknak és az adminisztrátoroknak a rendszer hatékonyságának és a diákok fejlődésének monitorozásában és értékelésében.
+
+---
+
+## Követelmények Teljesítése
+
+A rendszernek a következő technológiákat és követelményeket kell teljesítenie:
+
+- **Backend fejlesztés PHP-ben**: A rendszer hátterének PHP nyelven történő fejlesztése szükséges. Ez biztosítja a szerveroldali logika megvalósítását, például a felhasználói adatok kezelését és az adatbázis-kapcsolatot.
+
+- **Adatbázis MySQL használatával**: Az adatok tárolásához és kezeléséhez MySQL adatbázis szükséges. Az adatbázisban kell tárolni a felhasználói profilokat, kurzusinformációkat, felhasználói előrehaladást és egyéb adatokat.
+
+- **Felhasználói felület HTML és CSS használatával**: A felhasználói felületet HTML és CSS technológiák segítségével kell kialakítani. Az HTML felelős az oldalstruktúráért, míg a CSS a dizájn és stílusok testre szabásáért.
+
+- **Interaktív funkciók JavaScript segítségével**: Az interaktív funkciók, például az élő kereső, a diákok közötti kommunikáció és a dinamikus tartalom betöltése JavaScript segítségével kell implementálni. Ennek révén a felhasználók számára gyors és interaktív élményt nyújthatunk.
+
+- **Keresőoptimalizálás (SEO)**: A weboldalnak megfelelő SEO gyakorlatokat kell követnie, hogy a tartalom könnyen megtalálható legyen a keresőmotorokban.
+
+- **Mobilbarát felület**: A felhasználói felületnek reszponzív tervezéssel kell rendelkeznie, hogy a különböző eszközökön is használható legyen, beleértve az asztali számítógépeket, táblagépeket és mobiltelefonokat.
+
+- **Biztonság és adatvédelem**: A rendszernek megfelelő biztonsági intézkedéseket kell tartalmaznia a felhasználói adatok védelme érdekében. Ez magában foglalja a jelszókezelést és a hozzáférési jogosultságok ellenőrzését.
+
+A fent felsorolt technológiák és követelmények teljesítése kulcsfontosságú a rendszer hatékony működése és a felhasználói élmény biztosítása szempontjából.
+
+---
+
+## Technológiai Követelmények
+
+1. **Programozási Nyelv és Adatbázis:**
+   - Az alkalmazást PHP programozási nyelv használatával fejlesztjük.
+   - Az adatbáziskezeléshez MySQL-t alkalmazunk.
+
+2. **Felhasználói Felület:**
+   - A felhasználói felületnek reszponzívnek kell lennie, hogy támogassa a különböző eszközöket, beleértve a mobiltelefonokat és táblagépeket.
+
+3. **Biztonság:**
+   - A felhasználói jelszavaknak erős titkosítással kell lenniük védve.
+   - Az alkalmazásnak ellenállnia kell a biztonsági fenyegetéseknek, például SQL-injekcióknak.
+
+4. **Hostolás és Karbantartás:**
+   - Az alkalmazást megbízható szolgáltatón kell hostolni, és rendszeres karbantartást kell végezni rajta, hogy biztosítsuk a rendszer stabilitását és biztonságát.
