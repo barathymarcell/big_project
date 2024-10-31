@@ -80,3 +80,10 @@ Harmadik lépésben a rendszer keresési és kategorizálási funkcióit hozzuk 
 - **Keresési funkció:** Az egyszerű és hatékony keresőrendszer implementálása a kurzusok valamint egyéb tartalmak megtalálásához.
 
 - **Kategorizálás és Tematizálás:** A kurzusok tematikus csoportosításának és kategorizálásának lehetővé tétele.
+
+#### Lépés 4: Rendszerbiztonság és Jogosultságkezelés Implementálása
+A negyedik lépésben a rendszerbiztonságot és a jogosultságkezelést helyezzük előtérbe.
+
+- **Adatvédelem és Biztonság:** Az adatok biztonságos tárolásának és védelmének biztosítása, beleértve a felhasználói adatokat.
+
+- **Jogosultságkezelés:** A rendszer biztosítja, hogy minden felhasználó csak a megfelelő hozzáférésekkel rendelkező tartalmakhoz férjen hozzá.
