@@ -66,3 +66,10 @@ Az első lépésben a felhasználókezelést és bejelentkezés funkciókat hozz
 - **Felhasználói fiókok:** Ebben a szakaszban a felhasználók regisztrációs és belépési folyamatainak megtervezése és implementáslása történik.
 
 - **Profilkezelés:** A felhasználók profiladatainak kezelését és módosítását teszi lehetővé a rendszer.
+
+#### Lépés 2: Kurzuskezelés és Tartalomkezelés Rendszerének Kifejlesztése
+A második lépésben a kurzuskezelés és tartalomkezelés rendszerét hozzuk létre.
+
+- **Kurzusok létrehozása:** Ebben a szakaszban lehetővé tesszük a tanároknak, hogy új kurzusokat hozzanak létre, valamint azokhoz leckéket csatoljanak és tematizálják azokat.
+
+- **Tartalomfeltöltés:** At interaktív tartalomfeltöltés és kezelés kialakítása, beleértve a videókat, egyéb dokumentumokat illetve kvízeket.
