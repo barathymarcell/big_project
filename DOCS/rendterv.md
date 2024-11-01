@@ -150,3 +150,5 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 11. A rendszernek importálnia kell az LMS alaprendszer referencia táblamezőit legördülő listákhoz REST API és/vagy sFTP lapos fájl segítségével legalább naponta egyszer egy diák, sorozat, kurzus és osztály esetében.
 12. Az LMS-nek képesnek kell lennie meghatározott katalógus- és eseményvezérelt adatok (például munkavállalók hozzáadása és eltávolítása, képzési osztályok befejezése, képzési szolgáltatók felsorolása) fogyasztására és közzétételére biztonságos REST API segítségével az LMS Core Systembe és onnan.
 13. Az LMS-nek képesnek kell lennie meghatározott katalógus- és eseményvezérelt adatok (például munkavállalók hozzáadása és eltávolítása, képzési osztályok befejezése, képzési szolgáltatók felsorolása) tömeges fájlban történő közzétételére és fogyasztására az ECR Rendszer által előírt formátumban.
+
+![process](process.png)
