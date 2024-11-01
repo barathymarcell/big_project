@@ -143,3 +143,10 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 4. A rendszernek nem szabad engedélyeznie a munkavállalói mezők frissítését, amelyeket az ECR alaprendszerből importálnak.
 5. A rendszernek képesnek kell lennie diákok képzési információinak exportálására REST API és/vagy lapos fájl exportok segítségével. Csak azokat a rekordokat kell tartalmaznia, amelyek az utolsó adatcserét követően újra kerültek, vagy módosultak vagy töröltek. Ezt naponta legalább egyszer kell végrehajtani.
 6. A rendszernek a LMS termék és az ügyfél minisztériumának Agency Code-jával történő API hívás vagy egy lapos fájl exportja segítségével kell importálnia az adatelemeket az LMS alaprendszerből.
+7. A rendszernek a LMS termék, az ügynökségi kód és az LMS alaprendszer UEID-jével történő REST API hívás segítségével kell adatokat importálnia egy munkavállaló képzési előzményeiről.
+8. A rendszernek egyedi kurzus számokkal kell rendelkeznie.
+9. A rendszernek egyedi azonosítóval kell ellátnia egy sorozathoz tartozó kurzusokat.
+10. A rendszernek képesnek kell lennie követni egy kurzus iránti érdeklődést az LMS alaprendszer UEID-jével.
+11. A rendszernek importálnia kell az LMS alaprendszer referencia táblamezőit legördülő listákhoz REST API és/vagy sFTP lapos fájl segítségével legalább naponta egyszer egy diák, sorozat, kurzus és osztály esetében.
+12. Az LMS-nek képesnek kell lennie meghatározott katalógus- és eseményvezérelt adatok (például munkavállalók hozzáadása és eltávolítása, képzési osztályok befejezése, képzési szolgáltatók felsorolása) fogyasztására és közzétételére biztonságos REST API segítségével az LMS Core Systembe és onnan.
+13. Az LMS-nek képesnek kell lennie meghatározott katalógus- és eseményvezérelt adatok (például munkavállalók hozzáadása és eltávolítása, képzési osztályok befejezése, képzési szolgáltatók felsorolása) tömeges fájlban történő közzétételére és fogyasztására az ECR Rendszer által előírt formátumban.
