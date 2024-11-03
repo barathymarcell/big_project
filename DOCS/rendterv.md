@@ -188,3 +188,8 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 
 1. A rendszernek követnie és megjelenítenie kell a hallgatói információkat, beleértve az LMS alaprendszer által szolgáltatott UEID-t.
 2. A rendszernek vezetnie kell auditnaplókat az összes végrehajtott tranzakcióról az elsődleges adatkészleteken.
+
+## Biztonság
+
+1. A rendszernek képesnek kell lennie harmadik fél hitelesítési módokkal való integrációra, például O-Auth vagy közvetlen használat.
+2. A rendszernek fogadnia kell a
