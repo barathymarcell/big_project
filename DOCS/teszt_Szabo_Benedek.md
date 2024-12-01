@@ -52,3 +52,12 @@
 ### 4.2 Kurzusok Regisztrációja
 
 - [x] Sikeresen regisztráltam a kiválasztott kurzusokba.
+
+## 5. Kurzusok Kezelése (Oktatói Funkciók)
+
+### 5.1 Új Kurzus Létrehozása
+
+- [x] Sikeresen létrehoztam egy új kurzust a tantárgyamhoz.
+- [x] A kurzus tematizálása és időzítése is megfelelően működött.
+
+
