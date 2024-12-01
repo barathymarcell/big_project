@@ -41,3 +41,14 @@
 ### 3.1 Áttekintés
 
 - [x] A dashboardon könnyen áttekinthetőek voltak a kurzusaim, értesítéseim és tanulási előrehaladásom.
+
+## 4. Kurzusok Böngészése és Regisztráció
+
+### 4.1 Kurzusok Böngészése
+
+- [x] Sikeresen böngésztem a rendszer által elérhető kurzusokat.
+- [x] A kurzusok jól strukturáltak és könnyen kereshetőek voltak.
+
+### 4.2 Kurzusok Regisztrációja
+
+- [x] Sikeresen regisztráltam a kiválasztott kurzusokba.
