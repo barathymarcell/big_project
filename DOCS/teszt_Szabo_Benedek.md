@@ -36,3 +36,8 @@
 
 - [x] Sikeresen módosítottam a profiladataimat (felhasználónév, jelszó stb.).
 
+## 3. Dashboard
+
+### 3.1 Áttekintés
+
+- [x] A dashboardon könnyen áttekinthetőek voltak a kurzusaim, értesítéseim és tanulási előrehaladásom.
