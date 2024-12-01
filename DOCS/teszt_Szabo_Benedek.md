@@ -80,5 +80,67 @@
 
 - [x] Sikeresen kommunikáltam privát üzenetek segítségével diákokkal.
 
+## 8. Keresés és Navigáció
+
+### 8.1 Hatékony Keresés
+
+- [x] A keresési funkció gyors és hatékony volt a kurzusok, tartalmak és felhasználók között.
+
+### 8.2 Egyszerű Navigáció
+
+- [x] A rendszer egyszerű navigációt biztosított a gyors tartalom eléréséhez.
+
+
+## 9. Teljesítmény és Fejlődés Nyomon Követése
+
+### 9.1 Diákok Értékelése
+
+- [x] Sikeresen nyomon követtem a diákok teljesítményét és adtam nekik visszajelzést.
+
+### 9.2 Tanulási Statisztikák
+
+- [x] A rendszer megfelelő statisztikákat nyújtott a tanulók előrehaladásáról.
+
+## 10. Hozzáférés és Adatvédelem
+
+### 10.1 Megfelelő Hozzáférési Jogosultságok
+
+- [x] A rendszer megfelelő hozzáférési jogosultságokat biztosított a felhasználók számára.
+
+### 10.2 Adatvédelem
+
+- [x] A rendszer megfelelt az adatvédelmi előírásoknak és törvényeknek.
+
+
+
+## 11. Értesítések és Kommunikáció
+
+### 11.1 Automatikus Értesítések
+
+- [x] Az automatikus értesítések segítettek a fontos események és határidők nyomon követésében.
+
+### 11.2 Kommunikációs Funkciók
+
+- [x] A kommunikációs funkciók lehetővé tették az oktatók és diákok közötti hatékony kommunikációt és interakciót.
+
+## 12. Hozzáférhetőség
+
+- [x] A rendszer megfelelt az akadálymentességi szabványoknak a felhasználók számára könnyű és akadálymentes használat érdekében?
+
+## 13. Keresési Funkció
+
+- [x] A keresési funkció gyors és hatékony eredményeket szolgáltatott a kurzusok, tartalmak és felhasználók között?
+
+## 14. Dokumentáció és Támogatás
+
+- [x] A rendszer tartalmazott egy használati útmutatót és könnyen elérhető támogatási lehetőségeket?
+
+---
+
+
+
+### Teszt Zárása
+Ezennel lezárjuk a tesztelést. Az összes teszt sikeresen lefutott, és a rendszer 100%-ban megfelelt minden tesztelt funkcióra.
+
 
 
