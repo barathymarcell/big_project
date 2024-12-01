@@ -70,6 +70,15 @@
 
 - [x] A tartalom szerkesztése könnyen kezelhető volt, és a változtatások azonnal érvénybe léptek.
 
+## 7. Felhasználók Összekapcsolása
+
+### 7.1 Diákokkal Való Kapcsolatfelvétel
+
+- [x] Sikeresen létrehoztam kapcsolatot a diákokkal és követtem azokat.
+
+### 7.2 Kommunikáció
+
+- [x] Sikeresen kommunikáltam privát üzenetek segítségével diákokkal.
 
 
 
