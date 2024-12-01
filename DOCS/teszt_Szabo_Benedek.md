@@ -29,3 +29,10 @@
 
 - [x] Sikeresen bejelentkeztem a fiókomba.
 - [x] A bejelentkezési folyamat gyors és biztonságos volt.
+
+## 2. Profilkezelés
+
+### 2.1 Profiladatok Módosítása
+
+- [x] Sikeresen módosítottam a profiladataimat (felhasználónév, jelszó stb.).
+
