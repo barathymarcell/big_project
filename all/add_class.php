@@ -6,7 +6,7 @@
                             <div class="block-content collapse in">
                                 <div class="span12">
 								<form method="post" id="add_class">
-										<div class="control-group">
+										<div class="control-group"> 
 											<label>Csoport neve:</label>
                                           <div class="controls">
 											<input type="hidden" name="session_id" value="<?php echo $session_id; ?>">

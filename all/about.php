@@ -1,4 +1,4 @@
-<?php include('header_dashboard.php'); ?>
+<?php include('header_dashboard.php'); ?> 
     <body id="class_div">
 		<?php include('navbar_about.php'); ?>
         <div class="container-fluid">
