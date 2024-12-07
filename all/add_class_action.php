@@ -1,5 +1,5 @@
 <?php
-include('dbcon.php'); 
+include('dbcon.php');
 $session_id = $_POST['session_id'];
 $subject_id = $_POST['subject_id'];
 $class_id = $_POST['class_id'];

@@ -4,7 +4,7 @@
 	    <input type="text" class="input-block-level datepicker" name="date_end" id="date01" placeholder="Esemény vége" required/>
 		<input type="text" class="input-block-level" id="username" name="title" placeholder="Cím" required/>
 	<button id="signin" name="add" class="btn btn-info" type="submit"><i class="icon-save"></i> Mentés</button>
-</form> 
+</form>
 <?php
 if (isset($_POST['add'])){
 	$date_start = $_POST['date_start'];
