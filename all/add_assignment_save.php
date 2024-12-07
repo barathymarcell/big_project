@@ -3,7 +3,7 @@ include('session.php');
 require("opener_db.php");
 $conn= $connector->DbConnector();
 
-$name=$_POST['name']; 
+$name=$_POST['name'];
 $filedesc=$_POST['desc'];
 
 $input_name = basename($_FILES['uploaded_file']['name']);
