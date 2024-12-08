@@ -5,7 +5,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-                   <a class="brand" href="#">2BKM ELearning Tanári Felület</a>
+                   <a class="brand" href="#">GitBarmok ELearning Tanári Felület</a>
 							<div class="nav-collapse collapse">
 								<ul class="nav pull-right">
 												<?php $query= mysqli_query($conn,"select * from teacher where teacher_id = '$session_id'")or die(mysqli_error());

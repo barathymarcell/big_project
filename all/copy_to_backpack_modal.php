@@ -24,4 +24,3 @@
 					<button name="delete_user" class="btn btn-danger"><i class="icon-check icon-large"></i> Másolás</button>
 					</div>
 					</div>
-					

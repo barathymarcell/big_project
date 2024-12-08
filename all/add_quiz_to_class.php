@@ -1,4 +1,4 @@
-<?php include('header_dashboard.php'); ?> 
+<?php include('header_dashboard.php'); ?>
 <?php include('session.php'); ?>
 <body>
 		<?php include('navbar_teacher.php'); ?>
