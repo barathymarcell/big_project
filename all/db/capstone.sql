@@ -160,6 +160,7 @@ INSERT INTO `class` (`class_id`, `class_name`) VALUES
 (22, 'AB-1C'),
 (23, 'BSIT-2B'),
 (24, 'BSIT-1A');
+(25, 'Modszertan');
 
 -- --------------------------------------------------------
 
@@ -570,8 +571,8 @@ CREATE TABLE `school_year` (
 --
 
 INSERT INTO `school_year` (`school_year_id`, `school_year`) VALUES
-(2, '2012-2013'),
-(3, '2013-2014');
+(2, '2022-2023'),
+(3, '2023-2024');
 
 -- --------------------------------------------------------
 
@@ -595,7 +596,7 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`student_id`, `firstname`, `lastname`, `class_id`, `username`, `password`, `location`, `status`) VALUES
-(113, 'Clifford', 'Ledesma', 13, '21100324', '', 'uploads/NO-IMAGE-AVAILABLE.jpg', 'Unregistered'),
+(113, 'Proba', 'Pityu', 13, '21100324', 'Pityu','Pityu', 'uploads/images.png', 'Registered'),
 (112, 'Raymond', 'Serion', 13, '2700372', '', 'uploads/NO-IMAGE-AVAILABLE.jpg', 'Unregistered'),
 (111, 'Mark Dominic', 'Sayon', 13, '21100867', 'heni', 'uploads/mark.jpg', 'Unregistered'),
 (108, 'Kaye Angela', 'Cueva', 13, '21101151', '', 'uploads/dp.jpg', 'Unregistered'),
@@ -849,6 +850,7 @@ CREATE TABLE `teacher` (
 --
 
 INSERT INTO `teacher` (`teacher_id`, `username`, `password`, `firstname`, `lastname`, `department_id`, `location`, `about`, `teacher_status`, `teacher_stat`) VALUES
+(3, '1111','pbence11','pbence11','Papp','Bence', 4 ,'', '', 'Registered', 'Activated"),
 (9, '1001', 'test', 'Jomar', 'Pabuaya', 4, 'uploads/NO-IMAGE-AVAILABLE.jpg', '', 'Registered', 'Deactivated'),
 (5, '1002', 'red', 'Cristine', 'Redoblo', 4, 'uploads/NO-IMAGE-AVAILABLE.jpg', '', '', 'Activated'),
 (11, '1003', 'aladin', 'Aladin', 'Cabrera', 4, 'uploads/NO-IMAGE-AVAILABLE.jpg', '', '', 'Activated'),
