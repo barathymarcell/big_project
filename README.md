@@ -27,7 +27,7 @@ A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönny
 
 - 8. lépés: Importálja a(z) capstone.sql névvel ellátott állományt a(z) "lms/db" mappából.
 
-- 9. lépés: Futtassa a "http://localhost/lms" linket.
+- 9. lépés: Futtassa az [E-Learning](http://localhost/big_project/) linket.
  
 Bármilyen fennakadás esetén a(z) [Segítség](https://www.sourcecodester.com/php/7339/learning-management-system.html) fülön megtalálhatják a megoldást!
 
