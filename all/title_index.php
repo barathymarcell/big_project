@@ -9,8 +9,8 @@
 							<div class="row-fluid">
 
 						<div class="span4">
-						<img class="index_logo" src="admin/images/gb_logo.png">
-						<link rel="title_icon" href="admin/images/gb_logo.png" type="x-icon">
+						<img class="index_logo" src="admin/images/lg.jpg">
+						<link rel="title_icon" href="admin/images/lg.jpg" type="x-icon">
 						</div>	
 						<div class="span8">
 						
