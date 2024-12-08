@@ -23,11 +23,11 @@
 									if(html=='true')
 									{
 									$.jGrowl("Állomány betöltése, kérjük várjon......", { sticky: true });
-									$.jGrowl("Üdvözöljük a GitBarmok LMS Felületén!", { header: 'Hozzáférés engedélyezve!' });
+									$.jGrowl("Üdvözöljük az E-Learning Felületen!", { header: 'Hozzáférés engedélyezve!' });
 									var delay = 1000;
 										setTimeout(function(){ window.location = 'dasboard_teacher.php'  }, delay);  
 									}else if (html == 'true_student'){
-										$.jGrowl("Üdvözöljük a GitBarmok LMS Felületén!", { header: 'Hozzáférés engedélyezve!' });
+										$.jGrowl("Üdvözöljük az E-Learning Felületen!", { header: 'Hozzáférés engedélyezve!' });
 									var delay = 1000;
 										setTimeout(function(){ window.location = 'student_notification.php'  }, delay);  
 									}else
