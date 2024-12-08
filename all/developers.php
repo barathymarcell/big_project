@@ -33,7 +33,7 @@
 								<center>
 								<img id="developers" src="admin/images/vargaksz.jpg" class="img-circle">
 								<hr>
-										<p>Name: Varga Kata </p>
+										<p>Név: Varga Kata </p>
 										<p>Beosztás: Fejlesztő </p>
 								</center>
 								</div>
