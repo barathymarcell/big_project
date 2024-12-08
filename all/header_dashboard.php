@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>GitBarmok LMS</title>
-        <link rel="title_icon" href="admin/images/gb_logo.png" type="x-icon">
+        <title>Módszertan</title>
+        <link rel="title_icon" href="admin/images/logo.png" type="x-icon">
 		<meta name="description" content="Learning Management System">
 		<meta name="keywords" content="LMS"">
 		<meta name="author" content="JOHN KEVIN LORAYNA">

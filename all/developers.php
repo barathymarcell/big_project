@@ -11,37 +11,37 @@
 									<div id="" class="muted pull-right"><a href="index.php"><i class="icon-arrow-left"></i> Visszalépés</a></div>
 								</div>
                             <div class="block-content collapse in">
-							<h3>Developers</h3>
+							<h3>Fejlesztők</h3>
 							<hr>
                                 <div class="span3">
-										<center>
-										<img id="developers" src="admin/images/berencsi.jpg" class="img-circle">
+								<center>
+										<img id="developers" src="admin/images/pb.JPG" class="img-circle">
 										<hr>
-										<p>Név: Berencsei Attila</p>
+										<p>Név: Papp Bence</p>
 										<p>Beosztás: Fejlesztő</p>
 										</center>
 								</div>
                                 <div class="span3">
 								<center>
-								<img id="developers" src="admin/images/hadadi.jpg" class="img-circle">
+								<img id="developers" src="admin/images/bm.jpg" class="img-circle">
 								<hr>
-										<p>Név: Hadadi Benjamin</p>
+										<p>Név: Barathy Marcell</p>
 										<p>Beosztás: Fejlesztő</p>
 								</center>
 								</div>
                                 <div class="span3">
 								<center>
-								<img id="developers" src="admin/images/janovits.jpg" class="img-circle">
+								<img id="developers" src="admin/images/vargaksz.jpg" class="img-circle">
 								<hr>
-										<p>Name: Janovits Hunor</p>
-										<p>Beosztás: Fejlesztő / magyarosító</p>
+										<p>Name: Varga Kata </p>
+										<p>Beosztás: Fejlesztő </p>
 								</center>
 								</div>
                                 <div class="span3">
 								<center>
-								<img id="developers" src="admin/images/etele.jpg" class="img-circle">
+								<img id="developers" src="admin/images/szabob.jpg" class="img-circle">
 								<hr>
-										<p>Név: Tamás Etele</p>
+										<p>Név: Szabó Benedek</p>
 										<p>Beosztás: Fejlesztő</p>
 								</center>
 								</div>

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Gitbarmok LMS</title>
-		<link rel="title_icon" href="admin/images/gb_logo.png" type="x-icon">
+        <title>E-Learning - 2024 Módszertan</title>
+		<link rel="title_icon" href="admin/images/logo.png" type="x-icon">
 		<meta name="description" content="Learning Management System">
 		<meta name="keywords" content="LMS">
 		<meta name="author" content="JOHN KEVIN LORAYNA">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->
-				<link href="admin/images/favicon.ico" rel="icon" type="image">
+				<link href="admin/images/logo.png" rel="icon" type="image">
 				<link href="admin/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"/>
 				<link href="admin/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen"/>
 				<link href="admin/bootstrap/css/font-awesome.css" rel="stylesheet" media="screen"/>

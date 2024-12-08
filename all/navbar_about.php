@@ -5,7 +5,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-                   <a class="brand" href="#">GitBarmok ELearning Kezelői Felület @ 2023</a>
+                   <a class="brand" href="#">E-Learning [2024 - Módszertan]</a>
 							<div class="nav-collapse collapse">
 								<ul class="nav pull-right">
 	

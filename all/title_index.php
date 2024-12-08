@@ -15,10 +15,10 @@
 						<div class="span8">
 						
 								<div class="title">
-							<p class="chmsc">GitBarmok ELearning Kezelői Felülete @ 2023</p>
+							<p class="chmsc">Módszertan - 2024</p>
 							<h3>
 
-							<p>GitBarmok</p>
+							<p>E-Learning Rendszer</p>
 						
 							</h3>		
 						</div>
