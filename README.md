@@ -31,3 +31,5 @@ A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönny
  
 Bármilyen fennakadás esetén a(z) [Segítség](https://www.sourcecodester.com/php/7339/learning-management-system.html) fülön megtalálhatják a megoldást!
 
+#### A rendszerben nem releváns adatok találhatóak!
+
